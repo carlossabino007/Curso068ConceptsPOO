@@ -8,6 +8,7 @@ namespace Curso068ConceptsPOO
 {
     public class Date
     {
+
         private  int _year;
         private int _month;
         private int _day;
@@ -69,12 +70,7 @@ namespace Curso068ConceptsPOO
 
         }
 
-        private int CheckDay(int day)
-        {
-
-            throw new NotImplementedException();
-        }
-
+    
         private int CheckMonth(int month)
         {
             if (month >= 1 && month <= 12) { return month;  }
