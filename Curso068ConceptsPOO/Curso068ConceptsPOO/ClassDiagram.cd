@@ -13,6 +13,7 @@
       <HashCode>AAACAEAAAAAAAAAEEAAQAAAAAAAIAAAIAAAAAAAAAAg=</HashCode>
       <FileName>Employee.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="Curso068ConceptsPOO.SalaryEmployee">
     <Position X="6.75" Y="0.75" Width="2" />
@@ -28,5 +29,34 @@
       <FileName>CommissionEmployee.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="Curso068ConceptsPOO.HourlyEmployee">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAEAAAAAAAAAAABAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>HourlyEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Curso068ConceptsPOO.BaseCommissionEmployee">
+    <Position X="5.5" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAQAA=</HashCode>
+      <FileName>BaseCommissionEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Curso068ConceptsPOO.Invoice">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAgAAAEAAAAAAAAAAAAAAAIAAAAgAAAAAA=</HashCode>
+      <FileName>Invoice.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Curso068ConceptsPOO.IPay">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>IPay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
