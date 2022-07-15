@@ -3,7 +3,7 @@ using Curso068ConceptsPOO;
 
 Console.WriteLine("POO Conceptos!");
 Console.WriteLine("==============");
-
+Console.WriteLine("OK!");
 //Date date1 = new Date(2022,2,22);
 //Date date2 = new Date(2022, 2, 4);
 //Console.WriteLine(date1);
